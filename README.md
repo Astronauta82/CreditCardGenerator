@@ -61,7 +61,7 @@ docker build -t <imagename>:<tag> .
 ```
 To instance the container:
 ```
-docker run -p 8080:80 <imagename>:<tag> . 
+docker run -p 8080:80 <imagename>:<tag> 
 ```
 ## Example
 1. Open postman
